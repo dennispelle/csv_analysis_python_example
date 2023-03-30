@@ -1,0 +1,36 @@
+Delta A-B: 0       NaN
+1       NaN
+2       NaN
+3       NaN
+4       NaN
+         ..
+51994   NaN
+51995   NaN
+51996   NaN
+51997   NaN
+51998   NaN
+Length: 51999, dtype: float64
+Delta C-D: 0       NaN
+1       NaN
+2       NaN
+3       NaN
+4       NaN
+         ..
+51994   NaN
+51995   NaN
+51996   NaN
+51997   NaN
+51998   NaN
+Length: 51999, dtype: float64
+Delta E-F: 0       -0.018313
+1       -0.018313
+2       -0.047308
+3       -0.018313
+4       -0.018313
+           ...   
+51994   -0.048834
+51995   -0.019839
+51996   -0.019839
+51997    0.009156
+51998   -0.019839
+Length: 51999, dtype: float64
